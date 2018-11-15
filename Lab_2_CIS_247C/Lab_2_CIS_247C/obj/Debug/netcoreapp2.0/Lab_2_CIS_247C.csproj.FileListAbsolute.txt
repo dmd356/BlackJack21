@@ -1,0 +1,11 @@
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/bin/Debug/netcoreapp2.0/Lab_2_CIS_247C.deps.json
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/bin/Debug/netcoreapp2.0/Lab_2_CIS_247C.runtimeconfig.json
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/bin/Debug/netcoreapp2.0/Lab_2_CIS_247C.runtimeconfig.dev.json
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/bin/Debug/netcoreapp2.0/Lab_2_CIS_247C.dll
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/bin/Debug/netcoreapp2.0/Lab_2_CIS_247C.pdb
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.csproj.CoreCompileInputs.cache
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.AssemblyInfoInputs.cache
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.AssemblyInfo.cs
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.dll
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.pdb
+/Users/devindistelhorst/Projects/CIS247C Labs and Course Project/Lab_2_CIS_247C/Lab_2_CIS_247C/obj/Debug/netcoreapp2.0/Lab_2_CIS_247C.csprojResolveAssemblyReference.cache
